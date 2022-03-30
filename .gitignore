@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Config files
+.vscode
+.idea
+
+# FuseBox configuration
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
